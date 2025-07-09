@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906842983080",
+    "project_id": "balloon-boomx-3b4cb",
+    "storage_bucket": "balloon-boomx-3b4cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906842983080:android:6bf3ff4c24e7eb2cab509d",
+        "android_client_info": {
+          "package_name": "com.vuclip.v"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtRC5unll-1oG5_Ec8jMTHfF7LR5nnu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
