@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6a8864264d49d6b6b6eaf235d55c0e, type: 3}
+  m_Name: ShopSetup
+  m_EditorClassIdentifier: Runtime:Runtime.Application.ShopSystem:ShopSetup
+  _shopItemStateConfigs:
+  - {fileID: 11400000, guid: d35d9aefaa60fa54e89c547f77056927, type: 2}
+  - {fileID: 11400000, guid: c5df26650f99cac4f864eecde5b8a074, type: 2}
+  - {fileID: 11400000, guid: 7d15597306a296e45a75697d5f2484c4, type: 2}
+  _shopItems:
+  - {fileID: 11400000, guid: 5d681a3c8fdd8d447812af90b2d82cdd, type: 2}
+  - {fileID: 11400000, guid: b5f2f4896234ff04b830c3bec142754d, type: 2}
+  - {fileID: 11400000, guid: 5d27b71fe28f0fa448a9aa68bf004186, type: 2}
+  - {fileID: 11400000, guid: 4eb1fec60ba4bae48b7ff42db74fc2f6, type: 2}
+  - {fileID: 11400000, guid: 116f6634be189cb499c50de4dfb4b18f, type: 2}
+  - {fileID: 11400000, guid: 522a9dd1854dc0441bd2edc36c1fcf02, type: 2}
+  - {fileID: 11400000, guid: 723b7929262717449ab5794c1d884fff, type: 2}
+  - {fileID: 11400000, guid: 027ba745b19baa2498e230aaef1a88c8, type: 2}
+  - {fileID: 11400000, guid: 02daee8176f5c934781a31ab451f1834, type: 2}
+  - {fileID: 11400000, guid: 3c984ca00b8aee84fa7a37b6d9b40ee4, type: 2}
+  - {fileID: 11400000, guid: dad5b5f9eabf91a4cb369163f81ac9ae, type: 2}
+  - {fileID: 11400000, guid: 595a0ccafe2a7ea468aa240b197bdf78, type: 2}
+  - {fileID: 11400000, guid: 7c4f28e6daed20a46bd7fa16ccb3a9dc, type: 2}
+  - {fileID: 11400000, guid: fb827f56828ec5748b8cab79bdb6a186, type: 2}
+  - {fileID: 11400000, guid: 73c102ce991d6ae409e2c0e121c59113, type: 2}
+  - {fileID: 11400000, guid: 818d8a1ff5653714a9522627bb605dad, type: 2}
+  - {fileID: 11400000, guid: 57ac5def2d3416740951c205de66f257, type: 2}
+  - {fileID: 11400000, guid: 1ed0e7515a85d4546b0d94d3432f4426, type: 2}
+  - {fileID: 11400000, guid: 58fe05b272199ef47bdd70979ffe198c, type: 2}
+  - {fileID: 11400000, guid: 290a19d9d6cb7ce4cbac27a06d847775, type: 2}
+  - {fileID: 11400000, guid: 14bbbff6061a02244a9182c8868e0cc0, type: 2}
+  - {fileID: 11400000, guid: fe210f3428a16044884716992073e968, type: 2}
+  - {fileID: 11400000, guid: a406e6e42f20c1344bc65bafd416c49a, type: 2}
+  - {fileID: 11400000, guid: 965e82c19c41d1f49b81b514d61e9e82, type: 2}
+  - {fileID: 11400000, guid: 711841a93eb573d4a8b25869a1cd1770, type: 2}
+  - {fileID: 11400000, guid: 8b8455c130ff519489fd2847009194f8, type: 2}
+  _confirmPurchase: 0
+  _purchaseEffectSettings:
+    PlaySoundOnPurchase: 1
+    PlaySoundOnSelectPurchased: 1
+    PlaySoundIfNotEnoughCurrency: 1
+    ShakeIfNotEnoughCurrency: 1
+    PurchaseFailedShakeParameters:
+      ShakeDuration: 0.2
+      Strength: 20
+      Randomness: 90
+      Vibrato: 100
+      Snapping: 0
+      FadeOut: 1
+      ShakeRandomnessMode: 1
+  _coinIcon: {fileID: 21300000, guid: 7f45507b63422944ab085c890130c9b0, type: 3}

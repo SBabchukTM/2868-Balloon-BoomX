@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: LevelConfig_9
+  m_EditorClassIdentifier: 
+  _raceLength: 478.94736
+  _botsCount: 3
+  _spawnDatas:
+  - SpawnPosition: {x: -13.535042, y: 22.546577, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -0.60870266, y: 39.709427, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 8.673173, y: 62.303673, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 12.333723, y: 91.48298, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -4.004272, y: 121.2209, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -4.857815, y: 147.26068, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -12.4009075, y: 166.06076, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -6.161204, y: 183.77939, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 4.390901, y: 206.27296, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -13.076241, y: 235.9604, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 3.4521546, y: 258.2615, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 5.568441, y: 281.54892, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -0.8073969, y: 306.8734, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 2.2133002, y: 325.2413, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -5.333532, y: 348.16113, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 0.86910534, y: 376.0293, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -2.008737, y: 395.1313, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -1.7372646, y: 411.07184, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 11.104217, y: 431.99808, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 6.0537314, y: 458.95483, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -0.19407558, y: 475.36472, z: 0}
+    ItemType: 2
+  _botsSpeedMultiplier: 0.8105264
+  _checkpoints: 3
+  _minCoins: 13
+  _maxCoins: 26

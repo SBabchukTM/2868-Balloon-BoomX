@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f832290967324f03b8cdd3404245ab3f, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  Audio:
+  - Id: OpenPopup
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0914b319650a394438c770548d612227, type: 3}
+  - Id: OpenScreenSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0914b319650a394438c770548d612227, type: 3}
+  - Id: CloseScreenSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0914b319650a394438c770548d612227, type: 3}
+  - Id: ClosePopupSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0914b319650a394438c770548d612227, type: 3}
+  - Id: PressActiveButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0b527a0689a3f1f40869bd887f9dd045, type: 3}
+  - Id: PressNotActiveButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0b527a0689a3f1f40869bd887f9dd045, type: 3}
+  - Id: PressButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0b527a0689a3f1f40869bd887f9dd045, type: 3}
+  - Id: Music
+    AudioType: 0
+    Clip: {fileID: 8300000, guid: 2d28ec6158084ba4c9bd47a9ccc0f9e3, type: 3}
+  - Id: DisplaySound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0914b319650a394438c770548d612227, type: 3}
+  - Id: ErrorSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 431ebd4a929896f429cea28c5345848d, type: 3}
+  - Id: PurchaseSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 1dbd99b742fde7c4ba953ac884616626, type: 3}
+  - Id: SelectSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 1dbd99b742fde7c4ba953ac884616626, type: 3}
+  - Id: PopSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: c6f2450d247071842b1cd374e70f7a94, type: 3}
+  - Id: CoinSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 5dae5fc7b7b98fc48ae21cee90a24412, type: 3}
+  - Id: LoseSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: d53e1dfe2166bcf47ab2e9da0a8ed488, type: 3}
+  - Id: RocketExplodeSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: a55ddd75225bd234690121d3f47bd78c, type: 3}
+  - Id: RocketShootSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 1233cad54e9166248a5b14a5b64a4233, type: 3}
+  - Id: TeleportSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: a3b2bc783ddd84843867cff40424611b, type: 3}
+  - Id: VictorySound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 3940238ebf46d724c8e9f0623cbbb8a8, type: 3}
+  - Id: BoostSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 7cf1c1643a236174a8760d18cc3b97d8, type: 3}
+  - Id: CactusSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 18696d23143ab5b47a194d30a6cd2acf, type: 3}

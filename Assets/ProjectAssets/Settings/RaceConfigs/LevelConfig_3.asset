@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: LevelConfig_3
+  m_EditorClassIdentifier: 
+  _raceLength: 194.73685
+  _botsCount: 3
+  _spawnDatas:
+  - SpawnPosition: {x: -0.27651215, y: 26.438364, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 12.239624, y: 46.934464, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -11.090527, y: 70.143845, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -1.3268299, y: 96.76464, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: 5.247005, y: 124.702805, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 1.9009266, y: 140.39647, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 12.399866, y: 156.30646, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -4.3182297, y: 180.04744, z: 0}
+    ItemType: 0
+  _botsSpeedMultiplier: 0.6526316
+  _checkpoints: 1
+  _minCoins: 7
+  _maxCoins: 14

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: LevelConfig_16
+  m_EditorClassIdentifier: 
+  _raceLength: 810.52637
+  _botsCount: 3
+  _spawnDatas:
+  - SpawnPosition: {x: 13.852554, y: 22.510393, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -8.9478855, y: 49.47651, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 10.1571865, y: 77.79462, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: -2.1787705, y: 99.94583, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: -8.01243, y: 129.55171, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -13.060787, y: 145.52016, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 13.946211, y: 175.42085, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 11.482011, y: 191.4733, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -4.3208904, y: 207.85843, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -13.76318, y: 231.75781, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: 7.2452183, y: 249.83864, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -12.388727, y: 267.8803, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 12.647573, y: 284.27228, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: 1.8387489, y: 303.93597, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 7.9324684, y: 328.52408, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: -11.758057, y: 352.77844, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 2.7978458, y: 382.0558, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 4.642914, y: 410.41095, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 9.874384, y: 429.06372, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 11.532677, y: 453.9485, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: 2.8051815, y: 479.52917, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -12.428341, y: 495.92377, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -4.0564785, y: 513.66034, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 2.7455325, y: 533.01544, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 7.18126, y: 556.7945, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: 5.355842, y: 580.6515, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: -5.2638226, y: 608.38556, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -6.6568546, y: 634.0678, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 2.028345, y: 663.3033, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -5.2040596, y: 690.55524, z: 0}
+    ItemType: 4
+  - SpawnPosition: {x: -8.417656, y: 707.7714, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: 9.682829, y: 732.2012, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -13.483564, y: 758.1349, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 5.9148, y: 787.5637, z: 0}
+    ItemType: 2
+  _botsSpeedMultiplier: 0.9947369
+  _checkpoints: 4
+  _minCoins: 20
+  _maxCoins: 40

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: LevelConfig_1
+  m_EditorClassIdentifier: 
+  _raceLength: 100
+  _botsCount: 3
+  _spawnDatas:
+  - SpawnPosition: {x: -3.9024224, y: 18.274729, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 9.307741, y: 42.51506, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: 12.377285, y: 67.99791, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 11.418674, y: 85.24544, z: 0}
+    ItemType: 0
+  _botsSpeedMultiplier: 0.6
+  _checkpoints: 1
+  _minCoins: 5
+  _maxCoins: 10

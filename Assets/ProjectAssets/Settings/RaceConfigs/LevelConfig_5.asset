@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: LevelConfig_5
+  m_EditorClassIdentifier: 
+  _raceLength: 289.4737
+  _botsCount: 3
+  _spawnDatas:
+  - SpawnPosition: {x: 7.6802726, y: 24.771717, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -6.839077, y: 50.056915, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -4.737927, y: 69.99252, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -11.53121, y: 99.11649, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -6.758496, y: 124.642166, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: 5.629856, y: 151.81976, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 11.004878, y: 180.46819, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 7.344696, y: 205.01094, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 13.535171, y: 222.49515, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 5.7119823, y: 237.7039, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -3.650456, y: 261.74414, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -2.9374566, y: 284.05057, z: 0}
+    ItemType: 1
+  _botsSpeedMultiplier: 0.7052632
+  _checkpoints: 2
+  _minCoins: 9
+  _maxCoins: 18

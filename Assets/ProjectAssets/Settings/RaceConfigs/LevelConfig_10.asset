@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: LevelConfig_10
+  m_EditorClassIdentifier: 
+  _raceLength: 526.3158
+  _botsCount: 3
+  _spawnDatas:
+  - SpawnPosition: {x: -8.470806, y: 22.035154, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -2.3555393, y: 49.825935, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 11.127197, y: 78.667114, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -6.053129, y: 103.1218, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -2.1943817, y: 131.89268, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -11.571579, y: 161.7609, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -6.0524745, y: 182.26912, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 2.4832911, y: 198.14056, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: -4.660143, y: 223.24069, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -5.292494, y: 239.45824, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 1.3855343, y: 260.98605, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 12.043594, y: 277.77966, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -8.629606, y: 299.2929, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: 2.4203267, y: 328.34177, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: 14.657618, y: 356.22052, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -13.532049, y: 384.54034, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -12.09127, y: 405.88763, z: 0}
+    ItemType: 3
+  - SpawnPosition: {x: 6.4180326, y: 426.87344, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: 4.510839, y: 454.77548, z: 0}
+    ItemType: 2
+  - SpawnPosition: {x: -12.869703, y: 472.9631, z: 0}
+    ItemType: 1
+  - SpawnPosition: {x: -5.6833916, y: 498.3455, z: 0}
+    ItemType: 0
+  - SpawnPosition: {x: -14.965364, y: 513.3626, z: 0}
+    ItemType: 1
+  _botsSpeedMultiplier: 0.8368421
+  _checkpoints: 3
+  _minCoins: 14
+  _maxCoins: 28
